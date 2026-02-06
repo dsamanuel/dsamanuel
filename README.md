@@ -37,6 +37,7 @@
 4. A Perioperative Quality Improvement Program for Cesarean Delivery in Ethiopia
 5. Prevalence of and risk factors for Human Immunodeficiency Virus (HIV) infection in entrants and residents of an Ethiopian prison
 6. Sterile Reprocessing and Surgical Safety Checklist Training to Improve Perioperative Infection Prevention in Ethiopia
+7. Magnitude of opportunistic diseases and their predictors among adult people living with HIV enrolled in care: national level cross sectional study, Ethiopia
 
 
 
