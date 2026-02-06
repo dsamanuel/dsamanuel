@@ -16,9 +16,10 @@
 - data integrity, governance, and security best practices across Mobile/Web applications, pipelines and data lakes/warehouses.
 
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Data Quality MEL Officer @Lifebox foundation  (_December 2022 - _January 2023_)**
+- Design & Customize DHIS2 platform based on project’s requirements. Indicators, data quality & reports and analytics dashboards.
+- Provide training on relevant for Lifebox and Clean-Cut hospital staff on data access and use in DHIS2 and other data systems.
+- Manage technical and non-technical documentation of Lifebox’s DHIS2 and other data systems and analyze DHIS2 performance, identify challenges and troubleshoot.
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
