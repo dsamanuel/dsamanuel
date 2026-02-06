@@ -7,9 +7,14 @@
 - B.S., Computer Science | Haramaya University (_July 2008_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Data Analytcs Manager @ Mercy Corps  (_January 2023 - Present_)**
+- Develop Data Analysis, Visualization, Analytical dashboards & GIS Maps that support program/portfolio data-driven decision-making (Python/Pandas, QGIS, Power BI and Tableau)
+- Development of MEL Information/Data Management System with standard MEL Technologies: Commcare, Web & Mobile Apps, MS-Office365 suite, Azure and Power Platform and supporting documents (Data Collection tools, SOP, Guides, User manuals & Analysis Plan)
+- Design, build, and maintain efficient, reusable, and scalable ETL/ELT Azure pipelines for structured and unstructured data.
+- Develop and optimize data workflows to support advanced analytics, machine learning models, and reporting tools.
+- Manage cloud and on-prem data platforms and App Services (e.g., Azure, Power BI, Commcare, or on-prem SQL/NoSQL systems).
+- data integrity, governance, and security best practices across Mobile/Web applications, pipelines and data lakes/warehouses.
+
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
