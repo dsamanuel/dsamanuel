@@ -7,7 +7,7 @@
 - B.S., Computer Science | Haramaya University (_July 2008_)
 
 ## Work Experience
-**Data Analytcs Manager @ Mercy Corps  (_January 2023 - Present_)**
+**Data Analytcs Manager @ Mercy Corps  (_Jan 2023 - Present_)**
 - Develop Data Analysis, Visualization, Analytical dashboards & GIS Maps that support program/portfolio data-driven decision-making (Python/Pandas, QGIS, Power BI and Tableau)
 - Development of MEL Information/Data Management System with standard MEL Technologies: Commcare, Web & Mobile Apps, MS-Office365 suite, Azure and Power Platform and supporting documents (Data Collection tools, SOP, Guides, User manuals & Analysis Plan)
 - Design, build, and maintain efficient, reusable, and scalable ETL/ELT Azure pipelines for structured and unstructured data.
@@ -16,7 +16,7 @@
 - data integrity, governance, and security best practices across Mobile/Web applications, pipelines and data lakes/warehouses.
 
 
-**Data Quality MEL Officer @Lifebox foundation  (_December 2022 - January 2023_)**
+**Data Quality MEL Officer @Lifebox foundation  (_Dec 2022 - Jan 2023_)**
 - Design & Customize DHIS2 platform based on project’s requirements. Indicators, data quality & reports and analytics dashboards.
 - Provide training on relevant for Lifebox and Clean-Cut hospital staff on data access and use in DHIS2 and other data systems.
 - Manage technical and non-technical documentation of Lifebox’s DHIS2 and other data systems and analyze DHIS2 performance, identify challenges and troubleshoot.
