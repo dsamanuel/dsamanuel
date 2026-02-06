@@ -35,6 +35,8 @@
 2. Agri link MEAL Learning Series:Going from Data to Knowledge
 3. Evaluation of an adaptive, multimodal intervention to reduce postoperative infections following cesarean delivery in Ethiopia: stepped wedge interventional trial
 4. A Perioperative Quality Improvement Program for Cesarean Delivery in Ethiopia
+5. Prevalence of and risk factors for Human Immunodeficiency Virus (HIV) infection in entrants and residents of an Ethiopian prison
+6. Sterile Reprocessing and Surgical Safety Checklist Training to Improve Perioperative Infection Prevention in Ethiopia
 
 
 
