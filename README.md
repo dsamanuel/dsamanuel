@@ -36,10 +36,10 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 
 ## Publications
-•	Bacteriologically confirmed pulmonary tuberculosis in an Ethiopian prison: Prevalence from screening of prisoners
-•	Agri link MEAL Learning Series:Going from Data to Knowledge
-•	Evaluation of an adaptive, multimodal intervention to reduce postoperative infections following cesarean delivery in Ethiopia: stepped wedge interventional trial
-•	A Perioperative Quality Improvement Program for Cesarean Delivery in Ethiopia
+1. Bacteriologically confirmed pulmonary tuberculosis in an Ethiopian prison: Prevalence from screening of prisoners
+2. Agri link MEAL Learning Series:Going from Data to Knowledge
+3. Evaluation of an adaptive, multimodal intervention to reduce postoperative infections following cesarean delivery in Ethiopia: stepped wedge interventional trial
+4. A Perioperative Quality Improvement Program for Cesarean Delivery in Ethiopia
 
 
 
