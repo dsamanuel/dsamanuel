@@ -1,4 +1,4 @@
-# Data Analyst, Web Application Developer, DHIS Developer
+## Data Analyst, Web Application & DHIS2 Developer
 
 ## Technical Skills: 
 - Data Analysis, Visualization & Analytical Dashboard, Data Integration & API Development, Monitoring & Evaluation,Data/Information Management, Database/Web Application
