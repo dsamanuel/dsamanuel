@@ -53,18 +53,11 @@
 - ADDIS-VP Study Data Management System (CMS) - Web App | Plone CMS, Zope Object Database (ZODB) | EPHA | 2015
 
 ### Data-Driven
-[Links|
+Agri link MEAL Learning Series:Going from Data to Knowledge
 
 ## Publications
-1.  <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0226160" target="_blank">Bacteriologically confirmed pulmonary tuberculosis in an Ethiopian prison: Prevalence from screening of prisoners</a>
-2. Agri link MEAL Learning Series:Going from Data to Knowledge
-3. Evaluation of an adaptive, multimodal intervention to reduce postoperative infections following cesarean delivery in Ethiopia: stepped wedge interventional trial
-4. A Perioperative Quality Improvement Program for Cesarean Delivery in Ethiopia
-5. Prevalence of and risk factors for Human Immunodeficiency Virus (HIV) infection in entrants and residents of an Ethiopian prison
-6. Sterile Reprocessing and Surgical Safety Checklist Training to Improve Perioperative Infection Prevention in Ethiopia
-7. Magnitude of opportunistic diseases and their predictors among adult people living with HIV enrolled in care: national level cross sectional study, Ethiopia
-8. Postoperative antibiotic practices and surgical site-infections in low and middle-income twenty-hospital in Ethiopia
-
+1.  <a href="[https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0226160](https://link.springer.com/article/10.1007/s40899-026-01326-8)" target="_blank">1.	Households' perception of private sector engagement for water supply services</a>
+2. <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0226160" target="_blank">Bacteriologically confirmed pulmonary tuberculosis in an Ethiopian prison: Prevalence from screening of prisoners</a>
 
 
 - [Data Science Blog]
