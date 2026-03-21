@@ -46,11 +46,11 @@
 -	Ensuring all the data complies with legal regulations and Organization Data/Information is protected. 
 
 ## Projects
-- Data Warehousing and Business Intelligence systems | Commcare, Micorosoft Azuzre and Power-BI | Mercy Corps |2024
-- Web Application - Concept Note Managment, CARM, Travel Approval and Fleet Managment System | Django, PostgreSQL, Bootstrap, Java script/HTMX |Mercy Corps | 2023
-- Research Data Managment System (Web/Mobile Apps) | DHIS2 | Lifebox Foundation | 2022
+- Data Warehousing and Business Intelligence (BI) system | MEL Technology, Commcare, Micorosoft Azuzre and Power-BI | Mercy Corps |2024
+- CRM System (Web App) - Concept Note , CARM, Travel Approval and Fleet Managment System | Django, PostgreSQL, Bootstrap, Java script/HTMX |Mercy Corps | 2023
+- CLEAN CUT Research Data Managment System (Web/Mobile Apps) | DHIS2 | Lifebox Foundation | 2022
 - CIRIS - Beneficairy & Activity Tracking  Data Managment System (Web/Mobile Apps) | MS-SQL Server, PHP, Bootstrap, CSS, Java script - JS | Fintrac Inc. | 2019
-- Study Content Management System (CMS) - Web App | Plone, Zope Object Database (ZODB) | EPHA | 2015
+- ADDIS-VP Study Data Management System (CMS) - Web App | Plone CMS, Zope Object Database (ZODB) | EPHA | 2015
 
 ### Data-Driven
 [Publication]
