@@ -56,7 +56,7 @@
 Agri link MEAL Learning Series:Going from Data to Knowledge
 
 ## Publications
-1.	 <a href="https://link.springer.com/article/10.1007/s40899-026-01326-8" target="_blank">Households' perception of private sector engagement for water supply services</a>
+1.	 <a href="https://link.springer.com/article/10.1007/s40899-026-01326-8" target="_blank">Households’ perception of private sector engagement is associated with their willingness to pay for improved water supply services: evidence from three rural districts in Ethiopia</a>
 2.	<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0226160" target="_blank">Bacteriologically-confirmed pulmonary tuberculosis in an Ethiopian prison: Prevalence from screening of entrant and resident prisoners</a>
 3.	<a href="https://link.springer.com/article/10.1186/s13063-022-06500-9" target="_blank">Evaluation of an adaptive, multimodal intervention to reduce postoperative infection</a>
 4.	<a href="https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2822450/mammo_2024_oi_240880_1723229498.32124.pdf" target="_blank">A Perioperative Quality Improvement Program for Cesarean Delivery in Ethiopia: </a>
