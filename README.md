@@ -1,4 +1,4 @@
-## Data Analyst, Web Applications & DHIS2 Developer
+## Data Analyst, Web Applications, DHIS2 & Commcare Developer
 
 ## Technical Skills: 
 - Data Analysis, Visualization & Dashboard, Data Integration & APIs, Data/Information Management and Database,Web & Mobile Apps
