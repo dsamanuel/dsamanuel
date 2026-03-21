@@ -56,8 +56,14 @@
 Agri link MEAL Learning Series:Going from Data to Knowledge
 
 ## Publications
-1.  <a href="[https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0226160](https://link.springer.com/article/10.1007/s40899-026-01326-8)" target="_blank">1.	Households' perception of private sector engagement for water supply services</a>
-2. <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0226160" target="_blank">Bacteriologically confirmed pulmonary tuberculosis in an Ethiopian prison: Prevalence from screening of prisoners</a>
+1.	 <a href="https://link.springer.com/article/10.1007/s40899-026-01326-8" target="_blank">Households' perception of private sector engagement for water supply services</a>
+2.	<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0226160" target="_blank">Prevalence of and risk factors for Human Immunodeficiency Virus (HIV) </a>
+3.	<a href="https://link.springer.com/article/10.1186/s13063-022-06500-9" target="_blank">Evaluation of an adaptive, multimodal intervention to reduce postoperative infection</a>
+4.	<a href="https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2822450/mammo_2024_oi_240880_1723229498.32124.pdf" target="_blank">A Perioperative Quality Improvement Program for Cesarean Delivery in Ethiopia: </a>
+5.	<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/wjs.70177" target="_blank">Sterile Reprocessing and Surgical Safety Checklist Training to Improve Perioperative Infection Prevention in Ethiopia </a>
+6.	<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0226160" target="_blank">Bacteriologically confirmed pulmonary tuberculosis in an Ethiopian prison:</a>
+7.	<a href="https://pubmed.ncbi.nlm.nih.gov/38198157/" target="_blank">An observational cohort study on the effects of extended postoperative antibiotic prophylaxis </a>
+8.	<a href="https://sisna.org/postoperative-antibiotic-practices-and-surgical-site-infections-in-twenty-low-and-middle-income-country-hospitals/" target="_blank">Postoperative-antibiotic-practices-and-surgical-site-infections-in-twenty-hospital</a>
 
 
 - [Data Science Blog]
