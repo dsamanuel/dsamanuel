@@ -1,10 +1,9 @@
 # Data Analyst # Web Application Developer # DHIS Developer
 
-#### Technical Skills: Data Analysis, Visualization & Analytical Dashboard, Data Integration & API Development, Monitoring & Evaluation,Data/Information Management, Database/Web Application
-
-#### Tools/Platforms: Power Bi, Tableau, MS-SQL Server, PostgreSQL, MySQL/SPSS, MS-Excel, ArcGIS/ QGIS/ Power Query /Commcare, KOBO, ODK, SurveyCTO, DHIS2
-
-#### Programming Language: Python/ SQL/ JavaScript/ CSS/ MATLAB/ VBA/Macro/DAX
+## Technical Skills: 
+- Data Analysis, Visualization & Analytical Dashboard, Data Integration & API Development, Monitoring & Evaluation,Data/Information Management, Database/Web Application
+- Tools/Platforms: Power Bi, Tableau, MS-SQL Server, PostgreSQL, MySQL/SPSS, MS-Excel, ArcGIS/ QGIS/ Power Query /Commcare, KOBO, ODK, SurveyCTO, DHIS2
+- Programming Language: Python/ SQL/ JavaScript/ CSS/ MATLAB/ VBA/Macro/DAX
 
 ## Education						       		
 - M.S., Software Engineering | HiLCoE School of Computer Science and IT (_October 2014_)	 			        		
