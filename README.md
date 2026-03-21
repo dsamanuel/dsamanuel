@@ -7,7 +7,7 @@
 - B.S., Computer Science | Haramaya University (_July 2008_)
 
 ## Work Experience
-**Data Analytcs Manager @ Mercy Corps  (_Jan 2023 - Present_)**
+**Data Analytcs Manager @ Mercy Corps  (_Jan 2022 - Dec 2025_)**
 - Develop Data Analysis, Visualization, Analytical dashboards & GIS Maps that support program/portfolio data-driven decision-making (Python/Pandas, QGIS, Power BI and Tableau)
 - Development of MEL Information/Data Management System with standard MEL Technologies: Commcare, Web & Mobile Apps, MS-Office365 suite, Azure and Power Platform and supporting documents (Data Collection tools, SOP, Guides, User manuals & Analysis Plan)
 - Design, build, and maintain efficient, reusable, and scalable ETL/ELT Azure pipelines for structured and unstructured data.
@@ -15,13 +15,30 @@
 - Manage cloud and on-prem data platforms and App Services (e.g., Azure, Power BI, Commcare, or on-prem SQL/NoSQL systems).
 - data integrity, governance, and security best practices across Mobile/Web applications, pipelines and data lakes/warehouses.
 
-
-**Data Quality MEL Officer @Lifebox foundation  (_Dec 2022 - Jan 2023_)**
+**Data Quality MEL Officer @Lifebox foundation  (_Dec 2021 - Jan 2022_)**
 - Design & Customize DHIS2 platform based on project’s requirements. Indicators, data quality & reports and analytics dashboards.
 - Provide training on relevant for Lifebox and Clean-Cut hospital staff on data access and use in DHIS2 and other data systems.
 - Manage technical and non-technical documentation of Lifebox’s DHIS2 and other data systems and analyze DHIS2 performance, identify challenges and troubleshoot.
 
+**Database Manager @Fintrac Inc.  (_Jan 2018 - Dec 2021_)**
+-	Design & implement efficient MEL Data Management System (e.g., collection, modeling, quality assurance, analysis, and distribution).
+-	Oversees organization’s Information System (CIRIS) database system which keeps track of more than 300,000 project direct beneficiaries.
+-	Respond to database requirements changes by supporting users on troubleshooting desktop, web-based, and mobile applications.
+-	Develop SQL based reports & Tableau Visualization for performance indicator tracking and share for reporting & decision making
+  
+**Data Analyst @Jhon Snow Inc.  (_Dec 2016 - Jan 2018_)**
+-	Develop database system to track program performance using different application and statistical software like MS Access, MySQL, Mobile Data Collection system (ODK) Epi-info, SPSS, STATA, Dhis2 and Power BI
+-	Lead the data quality check process by reviewing data records hardcopy) coming from the field, the database, and the reports generated from the database based on the organization's data quality standards. 
+-	Regularly generate and share static and dynamic visualizations to Management & sub-offices (Microsoft Excel, Tableau or Power BI)
+
+**Data Manager @Ethiopian Public Health Association (EPHA) (_Apr 2013 - Dec 2016_)**
+-	Design and organize Data Management Systems through mechanism for different research and studies conducted by EPHA and University of California, San Diego (UCSD).
+-	Develop Data Management plan and Data Management SOP for the study. Support the development of high-quality, reliable, and user-friendly study database
+-	Establish & maintain version controls of the Case Report Forms, SOPs and Databases and Regular coding of the study database Quality Control & Assurance (QA/QC) queries.
+-	Liaise with PI, EPHA Staff and the UCSD informatics Team to report and address data related issues.
+
 ## Projects
+
 ### Data-Driven
 [Publication]
 
@@ -38,6 +55,7 @@
 5. Prevalence of and risk factors for Human Immunodeficiency Virus (HIV) infection in entrants and residents of an Ethiopian prison
 6. Sterile Reprocessing and Surgical Safety Checklist Training to Improve Perioperative Infection Prevention in Ethiopia
 7. Magnitude of opportunistic diseases and their predictors among adult people living with HIV enrolled in care: national level cross sectional study, Ethiopia
+8. Postoperative antibiotic practices and surgical site-infections in low and middle-income twenty-hospital in Ethiopia
 
 
 
