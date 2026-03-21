@@ -40,6 +40,11 @@
 -	Establish & maintain version controls of the Case Report Forms, SOPs and Databases and Regular coding of the study database Quality Control & Assurance (QA/QC) queries.
 -	Liaise with PI, EPHA Staff and the UCSD informatics Team to report and address data related issues.
 
+**Database Manager @Johns Hopkins Univeristy - TSEHAI Project (_Jul 2011 - Apr 2013_)**
+-	Development and maintenance of different project supported databases and Support data analysis for informed decision making.
+-	Regular reporting (Quarter, Semi-Annual & Annual Project progress report) to Donor (CDC Ethiopia), Country Directors and Project Managers (Local & Overseas).
+-	Ensuring all the data complies with legal regulations and Organization Data/Information is protected. 
+
 ## Projects
 
 ### Data-Driven
