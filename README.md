@@ -1,7 +1,7 @@
 ## Data Analyst, Web Applications & DHIS2 Developer
 
 ## Technical Skills: 
-- Data Analysis, Visualization & Analytical Dashboard, Data Integration & API Development, Data/Information Management, Database/Web Apps
+- Data Analysis, Visualization & Analytical Dashboard, Data Integration & API Dev't, Data/Information Management, Database & Web Applications
 - Tools/Platforms: Power Bi, Tableau, MS-SQL Server, PostgreSQL, MySQL/SPSS, MS-Excel, ArcGIS/ QGIS/ Power Query /Commcare, KOBO, ODK, SurveyCTO, DHIS2, Azure App Services, and Azure Synapse/Portal /Office 365
 - Programming Language: Python, Djnago, MATLAB, SQL, JavaScript, CSS, VBA, DAX, Sci-Learn
 
