@@ -46,7 +46,9 @@
 -	Ensuring all the data complies with legal regulations and Organization Data/Information is protected. 
 
 ## Projects
-
+- Data Warehousing and Business Intelligence systems | Commcare, Micorosoft Azuzre and Power-BI | Mercy Corps |2024
+- Web Application - Concept Note Managment, CARM, Travel Approval and Fleet Managment System | Django, PostgreSQL, Bootstrap, JS/HTMX |Mercy Corps | 2023
+- DHIS2 
 ### Data-Driven
 [Publication]
 
