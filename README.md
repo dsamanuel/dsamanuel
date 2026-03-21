@@ -2,7 +2,7 @@
 
 ## Technical Skills: 
 - Data Analysis, Visualization & Dashboard, Data Integration & APIs, Data/Information Management and Database,Web & Mobile Apps
-- Tools/Platforms: Power Bi, Tableau, MS-SQL Server, PostgreSQL, MySQL/SPSS, MS-Excel, ArcGIS/ QGIS/ Power Query /Commcare, KOBO, ODK, SurveyCTO, DHIS2, Azure App Services, and Azure Synapse/Portal /Office 365
+- Tools/Platforms: Power Bi, Tableau, MS-SQL Server, PostgreSQL, MySQL/SPSS, MS-Excel, ArcGIS/ QGIS/ Power Query /Commcare, KOBO, ODK, SurveyCTO, DHIS2, Azure App Services, Synapse/Portal, Microsoft Power platforms & office 365
 - Programming Language: Python, Djnago, MATLAB, SQL, JavaScript, CSS, VBA, DAX, Sci-Learn
 
 ## Education						       		
