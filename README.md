@@ -50,7 +50,8 @@
 - Web Application - Concept Note Managment, CARM, Travel Approval and Fleet Managment System | Django, PostgreSQL, Bootstrap, Java script/HTMX |Mercy Corps | 2023
 - Research Data Managment System (Web/Mobile Apps) | DHIS2 | Lifebox Foundation | 2022
 - CIRIS - Beneficairy & Activity Tracking  Data Managment System (Web/Mobile Apps) | MS-SQL Server, PHP, Bootstrap, CSS, Java script - JS | Fintrac Inc. | 2019
-- 
+- Study Content Management System (CMS) - Web App | Plone, Zope Object Database (ZODB) | EPHA | 2015
+
 ### Data-Driven
 [Publication]
 
