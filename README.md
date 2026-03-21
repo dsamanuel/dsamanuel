@@ -56,7 +56,7 @@
 [Links|
 
 ## Publications
-1. Bacteriologically confirmed pulmonary tuberculosis in an Ethiopian prison: Prevalence from screening of prisoners
+1.  <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0226160" target="_blank">Bacteriologically confirmed pulmonary tuberculosis in an Ethiopian prison: Prevalence from screening of prisoners</a>
 2. Agri link MEAL Learning Series:Going from Data to Knowledge
 3. Evaluation of an adaptive, multimodal intervention to reduce postoperative infections following cesarean delivery in Ethiopia: stepped wedge interventional trial
 4. A Perioperative Quality Improvement Program for Cesarean Delivery in Ethiopia
