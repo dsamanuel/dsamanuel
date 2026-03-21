@@ -1,6 +1,7 @@
-# Data Analyst
+# Data Analyst #Web Application Developer #DHIS Developer
 
-#### Technical Skills: Python, SQL, Azure, Power-Bi, Tableau, MATLAB, Data Analysis, Visualization & Dashboard, Data Integration & API Development, 	Data/Information Management, Database/Web Application
+#### Technical Skills: Python, SQL, Azure, Power-Bi, Tableau, MATLAB, Data Analysis, Visualization & Dashboard,
+### Data Integration & API Development, Data/Information Management, Database/Web Application
 
 ## Education						       		
 - M.S., Software Engineering | HiLCoE School of Computer Science and IT (_October 2014_)	 			        		
