@@ -53,12 +53,7 @@
 - ADDIS-VP Study Data Management System (CMS) - Web App | Plone CMS, Zope Object Database (ZODB) | EPHA | 2015
 
 ### Data-Driven
-[Publication]
-
-
-## Talks & Lectures
-- TBD
-
+[Links|
 
 ## Publications
 1. Bacteriologically confirmed pulmonary tuberculosis in an Ethiopian prison: Prevalence from screening of prisoners
