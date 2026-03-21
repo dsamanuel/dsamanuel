@@ -47,8 +47,10 @@
 
 ## Projects
 - Data Warehousing and Business Intelligence systems | Commcare, Micorosoft Azuzre and Power-BI | Mercy Corps |2024
-- Web Application - Concept Note Managment, CARM, Travel Approval and Fleet Managment System | Django, PostgreSQL, Bootstrap, JS/HTMX |Mercy Corps | 2023
-- DHIS2 
+- Web Application - Concept Note Managment, CARM, Travel Approval and Fleet Managment System | Django, PostgreSQL, Bootstrap, Java script/HTMX |Mercy Corps | 2023
+- Research Data Managment System (Web/Mobile Apps) | DHIS2 | Lifebox Foundation | 2022
+- CIRIS - Beneficairy & Activity Tracking  Data Managment System (Web/Mobile Apps) | MS-SQL Server, PHP, Bootstrap, CSS, Java script - JS | Fintrac Inc. | 2019
+- 
 ### Data-Driven
 [Publication]
 
